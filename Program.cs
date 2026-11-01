@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-            Console.WriteLine("hello");
+            Console.WriteLine("hello everyone");
         }
 
         private static void GreetWhite()
